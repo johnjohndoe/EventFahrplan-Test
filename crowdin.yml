@@ -1,7 +1,8 @@
 pull_request_title: Update translations via Crowdin.
 pull_request_labels:
   - Translation
-
+commit_message: Update %language% translation (%original_file_name%).
+append_commit_message: false
 
 files:
   - source: /app/src/main/res/values/preferences.xml
