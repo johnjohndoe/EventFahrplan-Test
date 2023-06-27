@@ -16,8 +16,8 @@
     -->
     <!-- Category general -->
     <!-- Automatic schedule updates -->
-    <string name="preference_title_auto_update_enabled">Habilita actualizaciones automáticas</string>
-    <string name="preference_summary_auto_update_enabled">Descarga el horario periódicamente.</string>
+    <string name="preference_title_auto_update_enabled">Enable automatic updates</string>
+    <string name="preference_summary_auto_update_enabled">Downloads the schedule periodically.</string>
     <!-- Alarm time index -->
     <!--
     Synchronize with @strings/preference_default_value_alarm_time_value
@@ -26,37 +26,37 @@
     Synchronize with @integers/preference_default_value_alarm_time_index
     and string-array/preference_entry_values_alarm_time
     -->
-    <string name="preference_dialog_title_alarm_time">Elige un hora de alarma predeterminada</string>
-    <string name="preference_title_alarm_time">Elige un hora de alarma predeterminada</string>
+    <string name="preference_dialog_title_alarm_time">Choose a default alarm time</string>
+    <string name="preference_title_alarm_time">Choose default alarm time</string>
     <!--
     Synchronize with @strings/preference_default_value_alarm_time_value
     and @integers/preference_default_value_alarm_time_index
     -->
     <!-- Alarm tone -->
-    <string name="preference_title_alarm_tone">Elige tono de alarma</string>
-    <string name="preference_summary_alarm_tone">Abre el selector de sonidos desde aquí.</string>
+    <string name="preference_title_alarm_tone">Choose alarm tone</string>
+    <string name="preference_summary_alarm_tone">Open the sounds selection screen from here.</string>
     <!-- Device time zone -->
-    <string name="preference_title_use_device_time_zone_enabled">Usa la zona horaria del dispositivo</string>
-    <string name="preference_summary_use_device_time_zone_enabled">Muestra las fechas y horas de acorde.</string>
+    <string name="preference_title_use_device_time_zone_enabled">Use device time zone</string>
+    <string name="preference_summary_use_device_time_zone_enabled">Displays dates and times accordingly.</string>
     <!-- Alternative highlighting -->
-    <string name="preference_title_alternative_highlighting_enabled">Habilita resaltado alternativo</string>
-    <string name="preference_summary_alternative_highlighting_enabled">Agrega un borde alrededor de las sesiones favoritas.</string>
+    <string name="preference_title_alternative_highlighting_enabled">Enable alternative highlighting</string>
+    <string name="preference_summary_alternative_highlighting_enabled">Adds a border around favored sessions.</string>
     <!-- Alternative schedule URL -->
     <string name="preference_default_value_alternative_schedule_url" translatable="false"></string>
-    <string name="preference_title_alternative_schedule_url">Configura un URL alternativo de horario</string>
-    <string name="preference_summary_alternative_schedule_url">Ingresa un URL de respaldo por si el servidor preconfigurado no funciona.</string>
+    <string name="preference_title_alternative_schedule_url">Configure alternative schedule URL</string>
+    <string name="preference_summary_alternative_schedule_url">Enter a backup URL if the preconfigured server cannot be reached.</string>
     <!-- App notification settings -->
-    <string name="preference_title_app_notification_settings">Personalizar notificaciones</string>
-    <string name="preference_summary_app_notification_settings">Abre la configuración del sistema asociado desde aquí.</string>
+    <string name="preference_title_app_notification_settings">Customize notifications</string>
+    <string name="preference_summary_app_notification_settings">Open the associated system settings screen from here.</string>
     <!-- Insistent session alarms -->
-    <string name="preference_title_insistent_alarms_enabled">Habilitar alarma insistente</string>
-    <string name="preference_summary_insistent_alarms_enabled">Mantiene una alarma encendida indefinidamente.</string>
+    <string name="preference_title_insistent_alarms_enabled">Enable insistent alarm</string>
+    <string name="preference_summary_insistent_alarms_enabled">Keeps an alarm on infinitely.</string>
     <!-- Category Engelsystem -->
     <string name="preference_default_value_engelsystem_json_export_url" translatable="false"></string>
-    <string name="preference_summary_engelsystem_json_export_url"><![CDATA[Para ver tus turnos por favor pon tu URL <u>personal</u> aquí.<br/><br/>
-        1. Haz login en tu cuenta <xliff:g example="Engelsystem" id="engelsystemAlias">%s</xliff:g>.<br/>
-        2. Copia la URL detrás del botón de <u>Exportación en JSON</u> en tu página de perfil.<br/>
-        3. Pega la URL aquí.<br/><br/>
-        Los horarios antes y después de los días principales de la conferencia <u>no</u> serán mostrados.]]></string>
-    <string name="preference_title_engelsystem_json_export_url">Configurar el URL de exportación del JSON</string>
+    <string name="preference_summary_engelsystem_json_export_url"><![CDATA[In order to see your shifts please enter your <u>personal</u> URL here.<br/><br/>
+        1. Login to your <xliff:g example="Engelsystem" id="engelsystemAlias">%s</xliff:g> account.<br/>
+        2. Copy the URL behind the <u>JSON Export</u> button at your profile page.<br/>
+        3. Paste the URL here.<br/><br/>
+        Shifts before and after the main conference days are <u>not</u> displayed.]]></string>
+    <string name="preference_title_engelsystem_json_export_url">Configure JSON Export URL</string>
 </resources>
