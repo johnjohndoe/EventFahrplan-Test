@@ -18,13 +18,11 @@ files:
     translation: /app/src/main/res/values-%android_code%/%original_file_name%
     languages_mapping:
       android_code:
-        af: af
-        da: da
         es-ES: es
+        fr: fr
   - source: /app/src/main/res/values/strings.xml
     translation: /app/src/main/res/values-%android_code%/%original_file_name%
     languages_mapping:
       android_code:
-        af: af
-        da: da
         es-ES: es
+        fr: fr
