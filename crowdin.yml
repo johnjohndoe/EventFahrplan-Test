@@ -20,9 +20,23 @@ files:
       android_code:
         es-ES: es
         fr: fr
+        it: it
+        ja: ja
+        nl: nl
+        pl: pl
+        pt-PT: pt
+        ru: ru
+        sv-SE: sv
   - source: /app/src/main/res/values/strings.xml
     translation: /app/src/main/res/values-%android_code%/%original_file_name%
     languages_mapping:
       android_code:
         es-ES: es
         fr: fr
+        it: it
+        ja: ja
+        nl: nl
+        pl: pl
+        pt-PT: pt
+        ru: ru
+        sv-SE: sv
